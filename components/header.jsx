@@ -34,7 +34,7 @@ const Header = async () => {
         <Link href="/">
           <Image
             src="/logoIg.png"
-            alt="sentechAi Logo"
+            alt="sensai Logo"
             width={90}
             height={50}
             className="h-20 py-0 w-400 object-contain"

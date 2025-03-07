@@ -54,7 +54,7 @@ const HeroSection = () => {
               src="/banner.webp"
               width={1280}
               height={720}
-              alt="Banner sentechAi"
+              alt="Banner sensai"
               className="rounded-lg shadow-2xl border mx-auto"
               priority
             />
